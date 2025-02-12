@@ -1,7 +1,7 @@
 # Airplane Management System
 
 ## Overview
-This project simulates an **Airplane Management System**, handling airplane components and employees responsible for security, maintenance, and cleaning. It includes object-oriented design with inheritance and polymorphism to model different airplane parts and personnel. The system also supports cloning, encryption, and string manipulation.
+This project is part of a **larger desktop application** developed using **Electron.js** for the frontend and **Java** for the backend. The C++ module presented here handles the core logic of **airplane management**, including airplane components, employee operations, cloning, and encryption. It was designed to be integrated with the Java backend for data processing and the Electron.js interface for user interaction.
 
 ## Features
 - **Employee Roles**  
